@@ -1,3 +1,5 @@
+<img src="github-banner.png" alt="GitHub Banner" width="100%" />
+
 # Greetings, everyone! I'm Ayush Petwal, a Web Developer and Competitive Programmer 👋🏼:
 🎓 Final-year B.Tech student in Computer Science and Engineering at Graphic Era Hill University.<br>👨‍💻 Full-Stack Web Developer and Competitive Programmer<br>🏆Achieved Knight rank on [LeetCode](https://leetcode.com/u/c0mrade_9/), 3⭐ on [CodeChef](https://www.codechef.com/users/c0mrade_9), and solved 750+ DSA problems across platforms.
 
